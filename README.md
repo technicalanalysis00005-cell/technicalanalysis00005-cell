@@ -13,20 +13,26 @@ Data engineer in **Kyoto, Japan**. I turn messy data into useful pipelines.
 
 ---
 
-## Projects
-
-- [gradient-generator](https://github.com/technicalanalysis00005-cell/gradient-generator) — CSS gradient generator with live preview
-- [data-sweeper](https://github.com/technicalanalysis00005-cell/data-sweeper) — CLI tool to clean and transform CSV/JSON files
-- [watchdog-scripts](https://github.com/technicalanalysis00005-cell/watchdog-scripts) — File system monitoring and auto-processing
-
----
-
 ## Stack
 
-`Python` `Pandas` `SQLite` `Bash` `Docker` `Cron`
+`Python` `Pandas` `SQL` `Airflow` `Docker` `Bash`
+`PostgreSQL` `Redis` `ClickHouse` `Jupyter`
 
 ---
 
-<p align="center">
-<i>Data in, insight out. Everything in between is automation.</i>
-</p>
+## Featured
+
+| Repo | Description |
+|------|-------------|
+| [NeuralForge-Pipeline](https://github.com/technicalanalysis00005-cell/NeuralForge-Pipeline) | Data processing pipeline for ML workflows |
+| [gradient-generator](https://github.com/technicalanalysis00005-cell/gradient-generator) | CSS gradient generator with live preview |
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technicalanalysis00005-cell&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+> If you do it more than twice, automate it.
