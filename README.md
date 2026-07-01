@@ -29,10 +29,4 @@ Data engineer in **Kyoto, Japan**. I turn messy data into useful pipelines.
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=technicalanalysis00005-cell&show_icons=true&theme=dark&hide_border=true)
-
----
-
 > If you do it more than twice, automate it.
